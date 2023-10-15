@@ -25,3 +25,8 @@ To find out if a credit card number is valid or not, use the Luhn algorithm.
 * idInvalidCardCompanies() identifies the credit card companies that have possibly issued these faulty numbers, returns an array of companies that have mailed out cards with invalid numbers.
   
 * stringToNumArr() accepts a string and converts it into an array of numbers like the initially provided arrays.
+
+
+Project possible extensions:
+	○ Use different credit card numbers from a credit card number generator and validator site (https://www.freeformatter.com/credit-card-number-generator-validator.html)
+	and test if your functions work for all types of credit cards.
